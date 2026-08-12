@@ -1,14 +1,3 @@
-[2026.07.22 13:58:29] Launched version: 7000003, install beta: [FALSE], alpha: 0, debug mode: [FALSE]
-[2026.07.22 13:58:29] Executable dir: C:/Users/User/Desktop/localgram/, name: Telegram.exe
-[2026.07.22 13:58:29] Initial working dir: C:/Users/User/Desktop/localgram/
-[2026.07.22 13:58:29] Working dir: C:/Users/User/Desktop/localgram/
-[2026.07.22 13:58:29] Command line: C:\Users\User\Desktop\localgram\Telegram.exe
-[2026.07.22 13:58:29] Executable path before check: C:/Users/User/Desktop/localgram/Telegram.exe
-[2026.07.22 13:58:29] Logs started
-[2026.07.22 13:58:29] WinRT Supported: [TRUE]
-[2026.07.22 13:58:29] AppUserModelID: Telegram.TelegramDesktop.9078ddb2f3bfa2a540a8d3c8eca701f6
-[2026.07.22 13:58:29] Using DirectX compiler 'C:\Users\User\Desktop\localgram\modules\x64\d3d\d3dcompiler_47.dll'.
-[2026.07.22 13:58:29] Connecting local socket to Global\eb136e91386b63f179375bdde3804267-{87A94AB0-E370-4cde-98D3-ACC110C5967D}...
-[2026.07.22 13:58:29] Socket connected, this is not the first application instance, sending show command...
-[2026.07.22 13:58:29] Show command written, waiting response...
-[2026.07.22 13:58:29] Show command response received, processId = 15060, windowId = 1182512, activating and quitting...
+version https://git-lfs.github.com/spec/v1
+oid sha256:09474b898ad06638cac5dec0f9a717d972377f6bdbfa0e67e7a3ef54d900ba69
+size 1244
