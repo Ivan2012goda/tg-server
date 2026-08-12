@@ -1,0 +1,32 @@
+# Go build artifacts
+/bin/
+*.exe
+*.test
+*.out
+coverage.*
+node_modules/
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 本地环境 / 密钥（server RSA private key 必须持久化，但禁止入库）
+.env
+.env.*
+!.env.example
+*.local
+*.pem
+*.key
+/secrets/
+/data/*
+!/data/langpack/
+!/data/langpack/**
+logs/
+tmp/
+.gocache/
+.tdesktop-e2e/
+
+# IDE
+.idea/
+.vscode/
