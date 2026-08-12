@@ -1,4 +1,8 @@
 @echo off
-cd /d %~dp0
-redis-server.exe redis.conf
+:: Переключаемся на диск и папку, где лежит этот батник
+cd /d "%~dp0"
+
+:: Запускаем сервер с нужным портом
+redis-server.exe --port 6399
+
 pause
