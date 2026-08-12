@@ -1,1 +1,0 @@
--- No-op: discarded empty conference calls are terminal cleanup records.

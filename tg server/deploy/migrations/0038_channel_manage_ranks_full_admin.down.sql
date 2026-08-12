@@ -1,2 +1,0 @@
--- Data repair only. Do not remove ManageRanks on rollback because later user edits
--- may have intentionally granted it.
